@@ -3,8 +3,8 @@
     {
       "id": 1,
       "id_user": 1,
-      "date": "14 NOV 2021",
-      "imageUrl": "https://nyousefali.com.br/blog/img/06.png",
+      "date": "14 NOV 2022",
+      "imageUrl": "https://i.postimg.cc/Gmz0MGBQ/06.png",
       "category": "games",
       "title": "O que tem de novo no PS5? Tudo o que você precisa saber.",
       "resume": "Acabou de sair esse grande lançamento dos consoles. Leia esse artigo para saber das novidades!",
@@ -17,8 +17,8 @@
     {
       "id": 2,
       "id_user": 1,
-      "date": "18 SET 2021",
-      "imageUrl": "https://nyousefali.com.br/blog/img/07.png",
+      "date": "18 SET 2022",
+      "imageUrl": "https://i.postimg.cc/SN7HsCGh/07.png",
       "category": "tecnologia",
       "title": "Novos processadores da 12° geração da intel chegaram.",
       "resume": "Os novos processadores da intel vieram para bater de frente com os novos Ryzen? Tem nova arquitetura semelhante à prática da grande Apple.",
@@ -31,10 +31,10 @@
     {
       "id": 3,
       "id_user": 3,
-      "date": "01 NOV 2021",
-      "imageUrl": "https://nyousefali.com.br/blog/img/09.png",
+      "date": "01 NOV 2022",
+      "imageUrl": "https://i.postimg.cc/zBb9XQxt/09.png",
       "category": "fotografia",
-      "title": "Qual a melhor câmera CxB para fotos e vídeos em 2021?",
+      "title": "Qual a melhor câmera CxB para fotos e vídeos em 2022?",
       "resume": "Com o lançamento de novas câmeras, qual a melhor? DSLR ou mirrorless? Qual o melhor custo benefício?",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra.",
       "duration": "15",
@@ -45,11 +45,11 @@
     {
       "id": 4,
       "id_user": 3,
-      "date": "10 OUT 2021",
-      "imageUrl": "https://nyousefali.com.br/blog/img/03.png",
+      "date": "10 OUT 2022",
+      "imageUrl": "https://i.postimg.cc/MGrCwwmf/03.png",
       "category": "cinema",
-      "title": "Top 10 Filmes de 2021.",
-      "resume": "Por mais que a pandemia tenha atrapalhado a gravação de vários filmes, temos muitas novidades para esse final de ano. Confira os top 10 filmes que prometem para o final de 2021.",
+      "title": "Top 10 Filmes de 2022.",
+      "resume": "Por mais que a pandemia tenha atrapalhado a gravação de vários filmes, temos muitas novidades para esse final de ano. Confira os top 10 filmes que prometem para o final de 2022.",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra.",
       "duration": "8",
       "star": "4",
@@ -59,10 +59,10 @@
     {
       "id": 5,
       "id_user": 2,
-      "date": "07 OUT 2021",
-      "imageUrl": "https://nyousefali.com.br/blog/img/01.png",
+      "date": "07 OUT 2022",
+      "imageUrl": "https://i.postimg.cc/28Rf3zR4/01.png",
       "category": "tecnologia",
-      "title": "Novos Mackbooks em 2021.",
+      "title": "Novos Mackbooks em 2022.",
       "resume": "FINALMENTE! Os novos macbooks são lançados pela Apple com novos processadores e o termo PRO volta a fazer sentido! Os resultados são de supreender.",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra.",
       "duration": "8",
@@ -73,8 +73,8 @@
     {
       "id": 6,
       "id_user": 3,
-      "date": "07 OUT 2021",
-      "imageUrl": "https://nyousefali.com.br/blog/img/02.png",
+      "date": "07 OUT 2022",
+      "imageUrl": "https://i.postimg.cc/hPLRdHcN/02.png",
       "category": "tecnologia",
       "title": "Air Pods 3° geração vs. Air Pods Pro",
       "resume": "Com o lançamento dos novos airpods de 3 geração, eles se aproximaram dos air pods pro? Será que vale a pena? É isso que vamos falar nesse artigo.",
@@ -87,10 +87,10 @@
     {
       "id": 7,
       "id_user": 1,
-      "date": "07 NOV 2021",
-      "imageUrl": "https://nyousefali.com.br/blog/img/05.png",
+      "date": "07 NOV 2022",
+      "imageUrl": "https://i.postimg.cc/nVm6y6jM/05.png",
       "category": "tecnologia",
-      "title": "Ainda vale a pena o PS4 Pro em 2021?",
+      "title": "Ainda vale a pena o PS4 Pro em 2022?",
       "resume": "Com o lançamento dos novos consoles da Sony, ainda vale a pena o PS4 Pro. Os jogos já estão otimizados para a nova geração?",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra.",
       "duration": "8",
@@ -101,10 +101,10 @@
     {
       "id": 8,
       "id_user": 1,
-      "date": "22 NOV 2021",
-      "imageUrl": "https://nyousefali.com.br/blog/img/08.png",
+      "date": "22 NOV 2022",
+      "imageUrl": "https://i.postimg.cc/tJFwFxQF/08.png",
       "category": "tecnologia",
-      "title": "PC Gamer em 2021? Está muito caro.",
+      "title": "PC Gamer em 2022? Está muito caro.",
       "resume": "Vocês já viram os preços de comprar um PC Gamer em plena pandemia covid-19? Escrevi um pouco sobre o que esperar daqui pra frente.",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra.",
       "duration": "8",
@@ -114,8 +114,8 @@
     },
     {
       "id_user": 1,
-      "date": "2021-11-29",
-      "imageUrl": "https://nyousefali.com.br/blog/img/08.png",
+      "date": "2022-11-29",
+      "imageUrl": "https://i.postimg.cc/tJFwFxQF/08.png",
       "category": "cinema",
       "title": "O novo filme do Spider-man no way home",
       "resume": "Aqui é um resumo do posto: O novo filme do Spider-man no way home",
@@ -125,101 +125,17 @@
       "views": "10",
       "status": true,
       "id": 9
-    },
-    {
-      "id_user": 2,
-      "date": "",
-      "imageUrl": "",
-      "category": "tecnologia",
-      "title": "",
-      "resume": "",
-      "content": "",
-      "duration": "5",
-      "star": "4",
-      "views": "10",
-      "status": true,
-      "id": 10
-    },
-    {
-      "id_user": 2,
-      "date": "",
-      "imageUrl": "",
-      "category": "tecnologia",
-      "title": "opssss hahaha",
-      "resume": "",
-      "content": "",
-      "duration": "5",
-      "star": "4",
-      "views": "10",
-      "status": true,
-      "id": 11
-    },
-    {
-      "id_user": 2,
-      "date": "",
-      "imageUrl": "",
-      "category": "tecnologia",
-      "title": "game over",
-      "resume": "esse aqui é o  resumo",
-      "content": "If you want to report a bug, please fill out the questions in the issue template that you deleted before posting this. A single line from an error message is not enough information to help you.",
-      "duration": "5",
-      "star": "4",
-      "views": "10",
-      "status": true,
-      "id": 12
-    },
-    {
-      "id_user": 2,
-      "date": "",
-      "imageUrl": "",
-      "category": "tecnologia",
-      "title": "asdcvavasdv",
-      "resume": "",
-      "content": "",
-      "duration": "5",
-      "star": "4",
-      "views": "10",
-      "status": true,
-      "id": 13
-    },
-    {
-      "id_user": 2,
-      "date": "",
-      "imageUrl": "",
-      "category": "tecnologia",
-      "title": "hahaha",
-      "resume": "wefwefwf",
-      "content": "",
-      "duration": "5",
-      "star": "4",
-      "views": "10",
-      "status": true,
-      "id": 14
-    },
-    {
-      "id_user": 2,
-      "date": "2022-10-14",
-      "imageUrl": "",
-      "category": "games",
-      "title": "teste",
-      "resume": "esse aqui é o  resumo",
-      "content": "sdcvsac",
-      "duration": "10",
-      "star": "4",
-      "views": "10",
-      "status": true,
-      "id": 15
     }
   ],
   "user": [
     {
       "id": 1,
-      "user": "nasseryousef",
-      "name": "Nasser",
-      "surname": "Yousef Ali",
+      "user": "helio",
+      "name": "Helio",
+      "surname": "Alves",
       "token": "E10ADC3949BA59ABBE56E057F20F883E",
       "description": "Front-End Dev & UI motion based in Brasília/Brazil, more than 8 years of experience in product development (user interaction, movement, performance, design faithful to design) and creating interfaces with out-of-the-box animations.",
-      "ImageProfile": "https://nyousefali.com.br/blog/profile/ny.jpg"
+      "ImageProfile": "https://i.postimg.cc/85Rj3ZL3/helio.jpg"
     },
     {
       "id": 2,
@@ -228,7 +144,7 @@
       "surname": "Grace",
       "token": "E10ADC3949BA59ABBE56E057F20F883E",
       "description": "Sou UI Designer e apaixonada por tecnologia. Crio interfaces e escrevo para o blog.",
-      "ImageProfile": "https://nyousefali.com.br/blog/profile/emily.png"
+      "ImageProfile": "https://i.postimg.cc/8PVqNtM4/emily.png"
     },
     {
       "id": 3,
@@ -237,7 +153,7 @@
       "surname": "Jacob",
       "token": "E10ADC3949BA59ABBE56E057F20F883E",
       "description": "Sou fotógrafo profissional, amante de cinema e tecnologia. Colunista e nas horas vagas escrevo para o blog.",
-      "ImageProfile": "https://nyousefali.com.br/blog/profile/alex.png"
+      "ImageProfile": "https://i.postimg.cc/nLLyNrBt/alex.png"
     }
   ]
 }
